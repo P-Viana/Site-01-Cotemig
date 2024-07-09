@@ -1,0 +1,149 @@
+header{
+    width: 13%;
+    height: 100vh;
+    background-color: black;
+    padding: 13px;
+    position: sticky;
+    top: 0;
+}
+main{
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-image: url(img1_cacto.jpg);
+    width: 87%;
+    opacity: 65%; 
+}
+body{
+    margin: 0px;
+    box-sizing: border-box;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+#titulodomenu{
+    color: white;
+    font-size: 20px;
+    font-family: oswald, arial, sans-serif;
+    text-decoration: none;
+}
+#ul1{
+    font-size: 12.8px;
+    color: white;
+    padding: 10px;
+    
+}
+a{
+    color: white;
+    font-size: 12.8px;
+    font-family: oswald, arial, sans-serif;
+    text-decoration: none; 
+}
+h1{
+    color: white;
+    font-size: 64px;
+    font-family: oswald, arial, sans-serif;
+}
+.lorem{
+    color: white;
+    font-size: 20px;
+}
+#textoinicial{
+    text-align: center;
+    width: 55%;
+    justify-content: center;
+    position: relative;
+    padding: 350px;
+}
+button{
+    border-radius: 30px;
+    color: #fff;
+    background-color: #df0e62;
+    border-color: #df0e62;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+}
+.foto1{
+    width: 33%;
+    height: 400px;
+}
+.foto1 img{
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+#divprincipal{
+    display: flex;
+    flex-wrap: wrap;
+}
+.testimonial{
+    text-align: center;
+}
+.testimonialtexto{
+    text-align: center;
+}
+.pessoa1{
+    border-radius: 90px;
+}
+.biografia{
+    padding-left: 400px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #363636;
+}
+.capacidades{
+    display: flex;
+}
+.foto2{
+    width: 25%;
+    height: 210px;
+}
+.foto2 img{
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+.blog{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.imagemetexto{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.imagemetexto h2{
+    font-size: 27px;
+}
+span{
+    color: #df0e62;
+}
+.contact{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #363636;
+}
+.organizartexto{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#footer{
+    text-align: center;
+    padding: 50px;
+}
+.botao2{
+    border-radius: 100px;
+    color: #fff;
+    background-color: black;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+}
+
